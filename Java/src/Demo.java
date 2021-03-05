@@ -5,9 +5,9 @@ public class Demo {
 System.out.println("Super is going ");
 System.out.println("Super is going ");
 System.out.println("Super is going ");
-System.out.println("Super is going ");
-System.out.println("Super is going ");
-System.out.println("Super is going ");
+for(int i=0;i<3;i++) {
+	System.out.println(i);
+}
 
 	}
 
